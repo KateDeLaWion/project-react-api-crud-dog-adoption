@@ -80,8 +80,7 @@ class Crud extends Component {
     return (
         <div className="backCrud">
       <div className="Crud">
-        {/* to be modified */}
-        <Slide left>
+        <Slide right>
         <h2>{this.state.title}</h2>
         </Slide>
         <h3>Comments are highly appreciated  </h3>
@@ -106,4 +105,4 @@ class Crud extends Component {
   }
 }
 
-export default Crud; 
+export default Crud;
