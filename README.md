@@ -2,14 +2,29 @@ The purpose of the project is to solve the problem of so many dogs have not foun
 
 The target end user for this program is someone who cares about dogs and appreciates the love they will give to dogs and the love that our dogs will give back to the user.
 
-image to WireFrame is in the img folder
+image to WireFrame is in the img folder.
+
+
+
+Planning Board  for Mid Mod 3 Project:
+
+4/7/20  Our team has discussed with instructor on the topics of the project and our idea has been approved. Our team members divided the work after deep discussion.
+
+4/8/20  Our team made some progress on the CRUD functionality.
+
+4/9/20  We have fixed the api functionality.
+
+4/10/20 We worked on putting different components together from members of our team.
+
+4/11/20  We worked on CSS
+
+4/12/20 We worked on the final touch and finesse of the project to be deployed at the end of today.
 
 
 
 
 
-
-
+__________________________________________________________________________
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
