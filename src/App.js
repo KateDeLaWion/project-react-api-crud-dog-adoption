@@ -6,8 +6,11 @@ import {
   Link
 } from 'react-router-dom';
 
+import Zoom from 'react-reveal/Zoom'; // Importing Zoom effect
+
 
 import Home from './components/Home' ;
+import Story from './components/Story';
 import DogTab from './components/DogTab' ;
 import Crud from './components/Crud' ;
 
@@ -18,13 +21,15 @@ export default class App extends Component {
   render() {
     
     return(
-      <div>
-        
+      
+      <div className="App">
+        <Zoom>
           <Router>
 
             <nav>   
-              <Link to="/home">Home</Link> #####
-              <Link to="/friends">Our furry friends</Link>##### 
+              <Link to="/home">Home</Link> .....
+              <Link to="/story">Inspirational story</Link> .....
+              <Link to="/friends">Our furry friends</Link>.....
               <Link to="/reviews">Reviews</Link> 
             </nav>
  
@@ -32,6 +37,9 @@ export default class App extends Component {
 
               <Route exact path="/home">
                 <Home />
+              </Route>
+              <Route exact path="/story">
+                <Story />
               </Route>
               <Route exact path="/friends">
                 <DogTab />
@@ -44,7 +52,7 @@ export default class App extends Component {
 
           </Router>
 
-        
+          </Zoom>
       </div>
      )
     
