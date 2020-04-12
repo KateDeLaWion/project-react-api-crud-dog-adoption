@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import './Crud.css';
-// to be upgraded
+
+import Slide from 'react-reveal/Slide';
+
 class Crud extends Component {
 
   constructor(props){
@@ -76,11 +78,13 @@ class Crud extends Component {
   render() {
     let datas = this.state.datas;
     return (
-        <div className="back">
+        <div className="backCrud">
       <div className="Crud">
+        <Slide left>
         <h2>{this.state.title}</h2>
+        </Slide>
         <h3>Comments are highly appreciated  </h3>
-        <div>You can always Create Read Update Delete your comments as you wish</div>
+        <div>You can always <span className="neonCrud">Create Read Update Delete</span> your comments as you wish</div>
         <form ref="myForm" className="myForm">
           <input type="text" ref="name" placeholder="Customer's name" className="formField" />
           <input type="text" ref="address" placeholder="Customer's comments" className="formField" />
@@ -101,4 +105,4 @@ class Crud extends Component {
   }
 }
 
-export default Crud;
+export default Crud; 
