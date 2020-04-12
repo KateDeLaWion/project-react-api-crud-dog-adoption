@@ -1,1 +1,8 @@
-/* new component to be modified */
+.dogPhotoSize{
+    width:650px;
+    height:410px;
+    padding:5px;
+    border-radius: 10%; 
+    border:8px solid #4ced02;
+    background-color: #a6da0b;
+    }
