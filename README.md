@@ -5,9 +5,9 @@ The target end user for this program is someone who cares about dogs and appreci
 Images to WireFrames include:
 ![Image of Yaktocat](https://github.com/Katie-Wong/react-api-crud-dog/blob/master/src/img/Screen%20Shot%202020-04-08%20at%2010.20.58%20PM.png)
 
+![Image of Yaktocat](https://github.com/Katie-Wong/react-api-crud-dog/blob/master/src/img/Screen%20Shot%202020-04-12%20at%202.59.42%20PM.png)
 
 Images to WireFrame are also in the img folder.
-
 
 
 Planning Board  for Mid Mod 3 Project:
