@@ -2,11 +2,11 @@ The purpose of the project is to solve the problem of so many dogs have not foun
 
 The target end user for this program is someone who cares about dogs and appreciates the love they will give to dogs and the love that our dogs will give back to the user.
 
-Image to WireFrame is:
+Images to WireFrames include:
 ![Image of Yaktocat](https://github.com/Katie-Wong/react-api-crud-dog/blob/master/src/img/Screen%20Shot%202020-04-08%20at%2010.20.58%20PM.png)
 
 
-image to WireFrame is also in the img folder.
+Images to WireFrame are also in the img folder.
 
 
 
