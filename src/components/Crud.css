@@ -1,1 +1,68 @@
-/* under construction */
+.backCrud {
+    height: 1000px;
+    /* background of bones wallpaper */
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCBaBCFjS8pThhtkNFXY_prIhcNDJqanhcQPYHEGoNTmkzn2iO&usqp=CAU");
+    background-size: 100% 100%;
+    
+}
+
+.Crud {
+    margin: auto;
+    width: 50%;
+    background-color: #adc6fa;
+}
+
+.neonCrud {
+    font-size: larger;
+    color: rgb(235, 86, 21);
+    text-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #fff,
+    0 0 40px #0ff,
+    0 0 80px #0ff,
+    0 0 90px #0ff,
+    0 0 100px #0ff,
+    0 0 150px #0ff;
+  }
+
+.myForm {
+    width: 100%;
+    background-color: #f4ec1b;
+    border-radius: 2px;
+    padding: 2px;
+}
+
+.formField {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 20%;
+    box-sizing: border-box;
+}
+
+.myButton {
+    width: 100%;
+    background-color: #535700;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.myList {
+    list-style: none;
+}
+
+.myListButton {
+    display: inline-block;
+    height: auto;
+    width: auto;
+    border-radius: 90%;
+    border: 1px solid #00b894;
+    margin: 3px 5px;
+}
