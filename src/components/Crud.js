@@ -80,6 +80,7 @@ class Crud extends Component {
     return (
         <div className="backCrud">
       <div className="Crud">
+        {/* to be modified */}
         <Slide left>
         <h2>{this.state.title}</h2>
         </Slide>
