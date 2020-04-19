@@ -12,25 +12,11 @@ Images to WireFrames include:
 Images to WireFrames are also in the img folder.
 
 
-Planning Board  for Mid Mod 3 Project:
-
-4/7/20  Our team has discussed with instructor on the topics of the project and our idea has been approved. Our team members divided the work after deep discussion.  CRUD and API. 
-
-4/8/20  Our team made some progress on the CRUD functionality.
-
-4/9/20  We have fixed the api functionality.
-
-4/10/20 We worked on putting different components together from members of our team.
-
-4/11/20  We worked on CSS and logo. 
-
-4/12/20 We worked on the final touch and finesse of the project to be deployed at the end of today.
 
 
 
 
 
-__________________________________________________________________________
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
