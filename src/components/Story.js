@@ -5,8 +5,9 @@ import Zoom from 'react-reveal/Zoom'; // Importing Zoom effect
 export default function Story() {
     return (
         <div>
-            <br/>
            
+           <div className="topSpace"></div>
+
             <div className="neon-wrapper">
             <span className="txt">Inspirational story we would like to share with you</span>
             <span className="gradient"></span>

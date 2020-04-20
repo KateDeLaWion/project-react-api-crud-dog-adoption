@@ -1,7 +1,10 @@
 .backCrud {
     height: 1000px;
+
     /* background of bones wallpaper */
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCBaBCFjS8pThhtkNFXY_prIhcNDJqanhcQPYHEGoNTmkzn2iO&usqp=CAU");
+    background-image: url("https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0827/9581/rbonesgreyblackwhite_shop_preview.png");
+
+
     background-size: 100% 100%;
     
 }
@@ -9,7 +12,7 @@
 .Crud {
     margin: auto;
     width: 50%;
-    background-color: #adc6fa;
+    background-color: #a2a0a0;
 }
 
 .neonCrud {
@@ -28,7 +31,7 @@
 
 .myForm {
     width: 100%;
-    background-color: #f4ec1b;
+    background-color: #151400;
     border-radius: 2px;
     padding: 2px;
 }
@@ -43,9 +46,10 @@
     box-sizing: border-box;
 }
 
+/* send button */
 .myButton {
     width: 100%;
-    background-color: #535700;
+    background-color: #450201;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;

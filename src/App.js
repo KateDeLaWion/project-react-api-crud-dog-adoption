@@ -25,14 +25,15 @@ export default class App extends Component {
       <div className="App">
         <Zoom>
           <Router>
-
+            
             <nav>   
-              <Link to="/home">Home</Link> .....
+              <Link to="/home"><span id="color">Home</span></Link> .....
               <Link to="/story">Inspirational story</Link> .....
               <Link to="/friends">Our furry friends</Link>.....
               <Link to="/reviews">Reviews</Link> 
             </nav>
- 
+            
+
             <Switch> 
 
               <Route exact path="/home">

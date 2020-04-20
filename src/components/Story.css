@@ -1,4 +1,6 @@
-
+.topSpace{
+    height: 28px;
+}
 .txt {
     color: #ffffff;
     background:#000000;
@@ -7,12 +9,14 @@
     font-family: Arial;
     text-transform: uppercase;
 }
+
 .txt::before {
     content: 'Inspirational story we would like to share with you';
     position: absolute;
     mix-blend-mode: difference;
     filter: blur(3px);
 }
+
 .neon-wrapper {
     position: relative;
     top: 50%;
@@ -22,6 +26,7 @@
     filter: brightness(300%);
     overflow: hidden;
 }
+
 .gradient{
     background: linear-gradient(114.5793141156962deg, rgba(6, 227, 250,1) 4.927083333333334%,rgba(229, 151, 64,1) 97.84374999999999%);
     position: absolute;
@@ -31,6 +36,7 @@
     height:100%;
     mix-blend-mode: multiply;
 }
+
 .dodge {
     background: radial-gradient(circle,white,black 35%) center / 25% 25%;
     position: absolute;
@@ -41,6 +47,7 @@
     mix-blend-mode: color-dodge;
     animation: dodge-area 3s linear infinite;
 }
+
 @keyframes dodge-area {
     to {
         transform: translate(50%,50%);

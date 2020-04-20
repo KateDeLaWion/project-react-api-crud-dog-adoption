@@ -1,8 +1,12 @@
-/* the image once npm start is hit */
+
 body{
     
   height: 700px;
+  
+  /* the image of KatSay logo,  once npm start is hit */
   background-image: url("https://i.ibb.co/dcZhKnW/blackwhite-Ver3-0.jpg");
+
+
 
 }
 
